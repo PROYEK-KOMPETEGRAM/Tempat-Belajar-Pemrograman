@@ -8,7 +8,7 @@ tanpa harus mengeluarkan biaya tambahan.
 ## Daftar Isi
 * Bahasa Indonesia
 * Bahasa Inggris
-
+* Bahasa Arab
 ## Cara Berkontribusi
 Berikut ini cara untuk berkontribusi :
 * Silakan _fork_ repositori ini
